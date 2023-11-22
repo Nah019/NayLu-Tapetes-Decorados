@@ -6,3 +6,9 @@ background: #CCCCCC;
 body {
     background: #FFC0CB
 }
+h1{
+    text-align: center;
+}
+em strong {
+    color:aqua;
+}
