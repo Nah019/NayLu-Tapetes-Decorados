@@ -1,16 +1,16 @@
-p {
-    text-align: center;
-background: #C71585;
+body {
+    background: #FFC0CB;
 }
 
-body {
-    background: #000000
+p {
+    text-align: center;
+background: #000000;
 }
 
 h1{
     text-align: center;
 }
 
-em strong {
-    color: #FF69B4(0, 255, 174, 0);
+em, strong {
+    color:rgba(255, 0, 102, 0.521);
 }
