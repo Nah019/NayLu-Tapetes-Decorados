@@ -1,10 +1,10 @@
 p {
     text-align: center;
-background: #c51b8c;
+background: #C71585;
 }
 
 body {
-    background: #c0d3ff
+    background: #000000
 }
 
 h1{
@@ -12,5 +12,5 @@ h1{
 }
 
 em strong {
-    color:rgba(0, 255, 174, 0);
+    color: #FF69B4(0, 255, 174, 0);
 }
