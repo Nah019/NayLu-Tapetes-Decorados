@@ -4,7 +4,7 @@ body {
 
 p {
     text-align: center;
-background: #000000;
+background: #CCCCCC;
 }
 
 h1{
@@ -12,5 +12,5 @@ h1{
 }
 
 em, strong {
-    color:rgba(255, 0, 102, 0.521);
+    color:aqua;
 }
