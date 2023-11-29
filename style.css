@@ -4,7 +4,7 @@ background: #CCCCCC;
 }
 
 body {
-    background: #FFC0CB
+    background: #c0d3ff
 }
 
 h1{
@@ -12,5 +12,5 @@ h1{
 }
 
 em strong {
-    color:aqua;
+    color:rgba(0, 255, 174, 0);
 }
